@@ -1,0 +1,390 @@
+{
+ "builder_version": "2.0",
+ "signature": "47206e4555ba048c2524db5f90f2ea3d",
+ "built": "2026-11-07 04:13",
+ "years": [
+  "1999-00",
+  "2000-01",
+  "2001-02",
+  "2002-03",
+  "2003-04",
+  "2004-05",
+  "2005-06",
+  "2006-07",
+  "2007-08",
+  "2008-09",
+  "2009-10",
+  "2010-11",
+  "2011-12",
+  "2012-13",
+  "2013-14",
+  "2014-15",
+  "2015-16",
+  "2016-17",
+  "2017-18",
+  "2018-19",
+  "2019-20",
+  "2020-21",
+  "2021-22",
+  "2022-23",
+  "2023-24",
+  "2024-25"
+ ],
+ "states": [
+  "ANDAMAN AND NICOBAR ISLANDS",
+  "ANDHRA PRADESH",
+  "ARUNACHAL PRADESH",
+  "ASSAM",
+  "BIHAR",
+  "CHANDIGARH",
+  "CHHATTISGARH",
+  "DADRA AND NAGAR HAVELI",
+  "DAMAN AND DIU",
+  "DELHI",
+  "GOA",
+  "GUJARAT",
+  "HARYANA",
+  "HIMACHAL PRADESH",
+  "JAMMU AND KASHMIR",
+  "JHARKHAND",
+  "KARNATAKA",
+  "KERALA",
+  "LADAKH",
+  "LAKSHADWEEP",
+  "MADHYA PRADESH",
+  "MAHARASHTRA",
+  "MANIPUR",
+  "MEGHALAYA",
+  "MIZORAM",
+  "NAGALAND",
+  "ODISHA",
+  "PUDUCHERRY",
+  "PUNJAB",
+  "RAJASTHAN",
+  "SIKKIM",
+  "TAMIL NADU",
+  "TELANGANA",
+  "TRIPURA",
+  "UTTAR PRADESH",
+  "UTTARAKHAND",
+  "WEST BENGAL"
+ ],
+ "nic_edition": {
+  "1999-00": "NIC-1998",
+  "2000-01": "NIC-1998",
+  "2001-02": "NIC-1998",
+  "2002-03": "NIC-1998",
+  "2003-04": "NIC-1998",
+  "2004-05": "NIC-2004",
+  "2005-06": "NIC-2004",
+  "2006-07": "NIC-2004",
+  "2007-08": "NIC-2004",
+  "2008-09": "NIC-2008",
+  "2009-10": "NIC-2008",
+  "2010-11": "NIC-2008",
+  "2011-12": "NIC-2008",
+  "2012-13": "NIC-2008",
+  "2013-14": "NIC-2008",
+  "2014-15": "NIC-2008",
+  "2015-16": "NIC-2008",
+  "2016-17": "NIC-2008",
+  "2017-18": "NIC-2008",
+  "2018-19": "NIC-2008",
+  "2019-20": "NIC-2008",
+  "2020-21": "NIC-2008",
+  "2021-22": "NIC-2008",
+  "2022-23": "NIC-2008",
+  "2023-24": "NIC-2008",
+  "2024-25": "NIC-2008"
+ },
+ "gwp": {
+  "CH4": 28.0,
+  "N2O": 265.0,
+  "basis": "AR5"
+ },
+ "measures": {
+  "Total_CO2_emission": [
+   "Scope 1 CO2",
+   "t CO2",
+   "emission"
+  ],
+  "Total_CH4_emission": [
+   "Scope 1 CH4",
+   "t CH4",
+   "emission"
+  ],
+  "Total_N2O_emission": [
+   "Scope 1 N2O",
+   "t N2O",
+   "emission"
+  ],
+  "Total_CO2eq_emission": [
+   "Scope 1 total",
+   "t CO2e",
+   "emission"
+  ],
+  "Scope2_CO2eq_emission": [
+   "Scope 2 (purchased electricity)",
+   "t CO2e",
+   "emission"
+  ],
+  "CO2eq_Tier1": [
+   "Scope 1 total, Tier 1 factors",
+   "t CO2e",
+   "emission"
+  ],
+  "CO2eq_Tier2": [
+   "Scope 1 total, Tier 2 factors",
+   "t CO2e",
+   "emission"
+  ],
+  "Biogenic_CO2_memo": [
+   "Biogenic CO2 (memo)",
+   "t CO2",
+   "emission"
+  ],
+  "Energy_TJ_fossil": [
+   "Fossil energy use",
+   "TJ",
+   "energy"
+  ],
+  "Energy_TJ_biomass": [
+   "Biomass energy use",
+   "TJ",
+   "energy"
+  ],
+  "Elec_Purchased_kWh": [
+   "Electricity purchased",
+   "kWh",
+   "energy"
+  ],
+  "Elec_OwnGen_kWh": [
+   "Electricity generated (own)",
+   "kWh",
+   "energy"
+  ],
+  "Coal_Consumed_t": [
+   "Coal consumed",
+   "t",
+   "energy"
+  ],
+  "Total_Output": [
+   "Total output",
+   "Rs",
+   "economic"
+  ],
+  "Value_of_Products_ASI": [
+   "Value of products and by-products",
+   "Rs",
+   "economic"
+  ],
+  "Total_Sales": [
+   "Total sales",
+   "Rs",
+   "economic"
+  ],
+  "Total_Input": [
+   "Total input",
+   "Rs",
+   "economic"
+  ],
+  "Materials_Total": [
+   "Materials consumed",
+   "Rs",
+   "economic"
+  ],
+  "Materials_Indigenous": [
+   "Materials, indigenous",
+   "Rs",
+   "economic"
+  ],
+  "Materials_Imported": [
+   "Materials, imported",
+   "Rs",
+   "economic"
+  ],
+  "Fuels_Consumed": [
+   "Fuels consumed",
+   "Rs",
+   "economic"
+  ],
+  "Other_Inputs": [
+   "Other inputs",
+   "Rs",
+   "economic"
+  ],
+  "Gross_Value_Added": [
+   "Gross value added",
+   "Rs",
+   "economic"
+  ],
+  "Net_Value_Added": [
+   "Net value added",
+   "Rs",
+   "economic"
+  ],
+  "Depreciation": [
+   "Depreciation",
+   "Rs",
+   "economic"
+  ],
+  "Net_Income": [
+   "Net income",
+   "Rs",
+   "economic"
+  ],
+  "Profit": [
+   "Profit",
+   "Rs",
+   "economic"
+  ],
+  "Rent_Paid": [
+   "Rent paid",
+   "Rs",
+   "economic"
+  ],
+  "Interest_Paid": [
+   "Interest paid",
+   "Rs",
+   "economic"
+  ],
+  "Rent_Received": [
+   "Rent received",
+   "Rs",
+   "economic"
+  ],
+  "Interest_Received": [
+   "Interest received",
+   "Rs",
+   "economic"
+  ],
+  "Wages_Total": [
+   "Wages and salaries",
+   "Rs",
+   "labour"
+  ],
+  "Wages_Workers": [
+   "Wages to workers",
+   "Rs",
+   "labour"
+  ],
+  "Bonus": [
+   "Bonus",
+   "Rs",
+   "labour"
+  ],
+  "Employer_Contribution": [
+   "Employer contribution (PF, welfare)",
+   "Rs",
+   "labour"
+  ],
+  "Total_Emoluments": [
+   "Total emoluments",
+   "Rs",
+   "labour"
+  ],
+  "Workers_Total": [
+   "Workers",
+   "persons",
+   "labour"
+  ],
+  "Persons_Engaged": [
+   "Persons engaged",
+   "persons",
+   "labour"
+  ],
+  "Mandays_Total": [
+   "Man-days employed",
+   "man-days",
+   "labour"
+  ],
+  "Fixed_Capital_Net_Close": [
+   "Fixed capital (net, closing)",
+   "Rs",
+   "capital"
+  ],
+  "Fixed_Capital_Gross_Close": [
+   "Fixed capital (gross, closing)",
+   "Rs",
+   "capital"
+  ],
+  "PnM_Gross_Close": [
+   "Plant and machinery (gross)",
+   "Rs",
+   "capital"
+  ],
+  "Gross_Fixed_Capital_Addition": [
+   "Gross addition to fixed capital",
+   "Rs",
+   "capital"
+  ],
+  "Physical_Working_Capital": [
+   "Physical working capital",
+   "Rs",
+   "capital"
+  ],
+  "Working_Capital": [
+   "Working capital",
+   "Rs",
+   "capital"
+  ],
+  "Invested_Capital": [
+   "Invested capital",
+   "Rs",
+   "capital"
+  ],
+  "Outstanding_Loans": [
+   "Outstanding loans",
+   "Rs",
+   "capital"
+  ],
+  "Coal_Value": [
+   "Value of coal consumed",
+   "Rs",
+   "energy"
+  ],
+  "Elec_Purchased_Value": [
+   "Value of electricity purchased",
+   "Rs",
+   "energy"
+  ],
+  "Petroleum_Value": [
+   "Value of petroleum products",
+   "Rs",
+   "energy"
+  ],
+  "OtherFuel_Value": [
+   "Value of other fuels",
+   "Rs",
+   "energy"
+  ]
+ },
+ "sample_vars": [
+  "Total_CO2_emission",
+  "Total_CH4_emission",
+  "Total_N2O_emission",
+  "Total_CO2eq_emission",
+  "Scope2_CO2eq_emission",
+  "Total_Output",
+  "Total_Input",
+  "Gross_Value_Added",
+  "Net_Value_Added",
+  "Profit",
+  "Fixed_Capital_Net_Close",
+  "Fixed_Capital_Gross_Close",
+  "Persons_Engaged",
+  "Workers_Total",
+  "Wages_Total",
+  "Total_Emoluments",
+  "Depreciation",
+  "Fuels_Consumed",
+  "Elec_Purchased_kWh",
+  "Coal_Consumed_t",
+  "Energy_TJ_fossil",
+  "Materials_Total"
+ ],
+ "has_unweighted": false,
+ "cube_nic_digits": 4,
+ "n_plant_records": 1521806,
+ "n_cells": 79845
+}
